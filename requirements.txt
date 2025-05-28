@@ -5,3 +5,4 @@ langchain_groq
 langchain_community
 langchain_huggingface
 streamlit
+python-telegram-bot
